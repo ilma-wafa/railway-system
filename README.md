@@ -1,7 +1,7 @@
 #  Sri Lankan Railway Reservation System
 
 A web-based railway reservation system built with PHP and MySQL.  
-Originally developed as coursework at London Metropolitan University (2022/23),  
+Originally developed as coursework at London Metropolitan University (2023/24),  
 rebuilt and extended with a full QA layer for portfolio purposes.
 
 ## Features
