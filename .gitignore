@@ -1,0 +1,12 @@
+# VS Code
+.vscode/
+
+# XAMPP specific
+config.local.php
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log" 
