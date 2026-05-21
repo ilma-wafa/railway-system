@@ -91,6 +91,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                     <input type="password" name="password" class="form-control" required>
                 </div>
                 <button type="submit" class="btn btn-primary w-100">Login</button>
+                <div class="text-center mt-3">
+                    <small>New passenger? <a href="passenger/register.php">Register here</a></small>
+                </div>
             </form>
         </div>
     </div>
